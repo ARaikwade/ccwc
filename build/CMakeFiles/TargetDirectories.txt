@@ -1,0 +1,3 @@
+/mnt/c/Users/amard/Documents/projects/ccwc/build/CMakeFiles/ccwc.dir
+/mnt/c/Users/amard/Documents/projects/ccwc/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/amard/Documents/projects/ccwc/build/CMakeFiles/rebuild_cache.dir
